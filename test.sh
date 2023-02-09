@@ -1,3 +1,3 @@
 #!/bin/bash
-echo This is test.sh-1
-exit 1
+echo This is test.sh-ok
+exit 0
